@@ -1,0 +1,2 @@
+Idée générale du projet: 
+Le projet est destiné aux clients désirant effectuer des commandes à distance auprès de restaurateurs offrant aussi ce service de livraison à domicile. Ce projet consiste à effectuer une interface client permettant aux clients d’effectuer leurs choix des menus ou plats désirés en fonction de l’offre du jour présentés par les restaurateurs.
